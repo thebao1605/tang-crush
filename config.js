@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Em à!',
+    introTitle: 'Huyn hâmmm!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    title: 'Có biết hum nay là ngày gì khum 😙',
+    desc: 'Huyn Huyn xinh đẹp của chú ',
+    btnYes: 'Không, Chú iu của Huyn à <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Hôm nay là ngày 20-10, nhập chữ bất kì ở bên dưới để biết thêm thông tin chi tiết <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    reply: 'Chúc bé Huyn của Chú luôn xinh đẹp, học giỏi, béo béo, nghe lời và yêu chú <33333333',
+    mess: 'Chú chúc trễ là vì đợi quà, xin lũi vì quá đến muộn',
+    messDesc: 'Yêu Bé Huyn của Chú',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/nguyensu5120/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100007932493036/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
